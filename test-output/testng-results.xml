@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-02T16:12:12 IST" name="Default suite" finished-at="2023-05-02T16:12:20 IST" duration-ms="8032">
+    <groups>
+    </groups>
+    <test started-at="2023-05-02T16:12:12 IST" name="Default test" finished-at="2023-05-02T16:12:20 IST" duration-ms="8032">
+      <class name="basic1.maven">
+        <test-method is-config="true" signature="start()[pri:0, instance:basic1.maven@6392827e]" started-at="2023-05-02T16:12:12 IST" name="start" finished-at="2023-05-02T16:12:20 IST" duration-ms="7638" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="GetTitle()[pri:0, instance:basic1.maven@6392827e]" started-at="2023-05-02T16:12:20 IST" name="GetTitle" finished-at="2023-05-02T16:12:20 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetTitle -->
+        <test-method signature="GetURL()[pri:0, instance:basic1.maven@6392827e]" started-at="2023-05-02T16:12:20 IST" name="GetURL" finished-at="2023-05-02T16:12:20 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetURL -->
+        <test-method signature="GetWindowHandler()[pri:0, instance:basic1.maven@6392827e]" started-at="2023-05-02T16:12:20 IST" name="GetWindowHandler" finished-at="2023-05-02T16:12:20 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetWindowHandler -->
+        <test-method is-config="true" signature="end()[pri:0, instance:basic1.maven@6392827e]" started-at="2023-05-02T16:12:20 IST" name="end" finished-at="2023-05-02T16:12:20 IST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- basic1.maven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
